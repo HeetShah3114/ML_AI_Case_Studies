@@ -13,3 +13,8 @@ Consequences:
 Create a ML model using the provided dataset.
 
 *HINT: This is a regression type problem*
+
+
+### The files are as follows
+1. *Salary_Dataset.csv* contains the dataset used to train and test the model.
+2. *case_study_1.ipynb* contains the implementation for the above case study.
