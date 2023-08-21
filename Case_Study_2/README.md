@@ -10,3 +10,4 @@ You will need to prepare a report that is accessible to a broad audience. It wil
 ### The files are as follows
 1. *loan_data.csv* contains the dataset used to train and test the model.
 2. *case_study_2.ipynb* contains the implementation for the above case study.
+3. *variable_explanation* contains the descriptions of all the variables.
