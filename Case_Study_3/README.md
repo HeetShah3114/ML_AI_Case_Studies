@@ -2,6 +2,7 @@
 This is the solution to a case study using Natural Language Processing(NLP).
 
 **The case study is as follows**
+
 Social media is serving majorly in all ways but on the other side, it is being misused in troubling the users by harassing, stalking, and blackmailing.
 
 From all among cyber attacks, the most availing is the online bullying. It has become extremely common, especially among the teenagers, as the digital sphere expanded.
