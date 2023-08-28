@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Salary Prediction</title>
+</head>
+<body>
+    <h1>Salary Prediction</h1>
+    
+    <form method="post" action="/predict">
+        <label for="years_experience">Enter Years of Experience:</label>
+        <input type="text" id="years_experience" name="years_experience" required>
+        <button type="submit">Predict Salary</button>
+    </form>
+    
+    {% if prediction %}
+    <h2>Predicted Salary: {{ prediction }}</h2>
+    {% endif %}
+    
+    {% if error %}
+    <p style="color: red;">{{ error }}</p>
+    {% endif %}
+</body>
+</html>
